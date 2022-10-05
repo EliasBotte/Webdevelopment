@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 3/Contact/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Contact/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Contact/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/.idea/Opdracht Uitbreiding personal homepage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/1917.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/Animal in me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/Fight club.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/Franz Ferdinand.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/Franz_Ferdinand_-_Take_Me_Out.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/LOTR_Trilogy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/Rammstein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/RammsteinDeutschlandSingleCover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/Sabaton.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/images/monki.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opdrachten_1_2_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/.idea/Opleidingsaanbod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nieuw project/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nieuw project/.idea/nieuw project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Contact/.idea/Contact information assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nieuw project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nieuw project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Contact/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nieuw project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +49,7 @@
       <workItem from="1664972911343" duration="218000" />
       <workItem from="1664973141463" duration="5000" />
       <workItem from="1664973323236" duration="327000" />
-      <workItem from="1664973675546" duration="4160000" />
+      <workItem from="1664973675546" duration="5370000" />
     </task>
     <servers />
   </component>
