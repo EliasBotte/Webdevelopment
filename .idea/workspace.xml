@@ -2,9 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 2/Images/Afbeelding tekst na compressie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 2/Images/Afbeelding tekst voor compressie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 2/Images/Afbeelding voor compressie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 2/Images/Veel compressie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 2/Images/Wat compressie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 2/Images/Weinig compressie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 2/Opdracht_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Contact_validated/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Contact_validated/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Contact_validated/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Contact_validated/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/1917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/Animal in me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/Fight club.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/Franz Ferdinand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/Franz_Ferdinand_-_Take_Me_Out.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/LOTR_Trilogy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/Rammstein.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/RammsteinDeutschlandSingleCover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/Sabaton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/images/monki.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Homepage_validated/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Opdracht_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Opleidingsaanbod_validated/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Opleidingsaanbod_validated/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Opleidingsaanbod_validated/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_3/Opleidingsaanbod_validated/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/Hobbys.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/Likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/1917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/Animal in me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/Fight club.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/Franz Ferdinand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/Franz_Ferdinand_-_Take_Me_Out.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/LOTR_Trilogy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/Rammstein.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/RammsteinDeutschlandSingleCover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/Sabaton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/images/monki.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_5/Homepage_validated_met_Absolute_paden/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +81,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 4/Opdracht 5" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 5" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 2" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 5" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 3" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +106,9 @@
       <workItem from="1664972911343" duration="218000" />
       <workItem from="1664973141463" duration="5000" />
       <workItem from="1664973323236" duration="327000" />
-      <workItem from="1664973675546" duration="5370000" />
+      <workItem from="1664973675546" duration="5395000" />
+      <workItem from="1665062936385" duration="222000" />
+      <workItem from="1665577393896" duration="5889000" />
     </task>
     <servers />
   </component>
