@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 5/Opdracht_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 5/Opdracht_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 5/Opdracht_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 5/Opdracht_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 5/Opdracht_6/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 5/Opdracht_7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Labo 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,8 +60,16 @@
       <workItem from="1665062936385" duration="222000" />
       <workItem from="1665577393896" duration="5889000" />
       <workItem from="1665770822852" duration="301000" />
-      <workItem from="1666184376388" duration="3963000" />
+      <workItem from="1666184376388" duration="4089000" />
     </task>
+    <task id="LOCAL-00001" summary="Labo 5">
+      <created>1666188440019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666188440019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Labo 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labo 5" />
   </component>
 </project>
