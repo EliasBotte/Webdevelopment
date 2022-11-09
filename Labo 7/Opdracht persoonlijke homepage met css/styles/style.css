@@ -1,0 +1,34 @@
+body{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+    background-image: url("../images/background_jungle.jpg");
+    color: #EDF2F4;
+}
+ol{
+    list-style: none;
+}
+h3{
+    font-family: Verdana, sans-serif;
+}
+article>h3{
+    font-size: 35px;
+}
+a{
+text-decoration: none;
+    color: purple;
+}
+a:hover{
+    color: red;
+}
+.Titelhoofd{
+    font-size: xx-large;
+    color: blue;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+th{
+    width: 20%;
+}

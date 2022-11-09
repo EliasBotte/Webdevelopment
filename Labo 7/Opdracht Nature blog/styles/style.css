@@ -1,0 +1,49 @@
+body{
+    width: 1200px;
+    margin: auto;
+}
+.headerbackground{
+    background-image: url("../images/header.jpg");
+}
+section>header>h1{
+    font-family: Verdana, sans-serif;
+    color: white;
+    font-size: 50px;
+    padding-bottom: 50px;
+    padding-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+nav{
+    background-color: #444444;
+}
+nav>a{
+color: mediumspringgreen;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: small;
+    padding-left: 5px;
+}
+article{
+    background-color: lightgrey;
+
+
+}
+article>header>h1{
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+    text-decoration: underline;
+    padding-top: 25px;
+    margin-top: 5px;
+    margin-left: 5px;
+    color: dimgray;
+}
+article>p{
+    margin-left: 5px;
+}
+article>footer>a{
+    margin-left: 5px;
+}
+footer{
+    margin-left: -5px;
+}

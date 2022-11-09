@@ -2,18 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Labo 5">
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_4/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_5/Images/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_6/images/checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_6/images/unchecked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_6/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_resume/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht_resume/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 3/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/images/nature blog example.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht kalender/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/1917.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Animal in me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Fight club.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Franz Ferdinand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Franz_Ferdinand_-_Take_Me_Out.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/LOTR_Trilogy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Rammstein.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/RammsteinDeutschlandSingleCover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Sabaton.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/background_jungle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/monki.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -46,21 +59,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 7/Opdracht Kalender" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Kalender" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Nature blog" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 5" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Kalender\styles" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Nature blog\images" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Nature blog" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6\Opdracht resume\styles" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6\Opdracht resume" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6\Opdracht_4\styles" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6\Opdracht 6\styles" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6\Opdracht 5\Images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,7 +95,9 @@
       <workItem from="1665770822852" duration="301000" />
       <workItem from="1666184376388" duration="4089000" />
       <workItem from="1666188568034" duration="43000" />
-      <workItem from="1666885104309" duration="3024000" />
+      <workItem from="1666885104309" duration="3135000" />
+      <workItem from="1666888295278" duration="98000" />
+      <workItem from="1668000125187" duration="6806000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>

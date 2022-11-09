@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Title</title>
+</head>
+<body>
+<h1>Opdracht 3</h1>
+<table>
+    <thead><tr><th>Voornaam</th><th>Familienaam</th><th>postcode</th><th>telefoon</th><th>email</th><th>Woonplaats</th></tr></thead>
+    <tfoot><tr><td colspan="6"><div id="paging"><ul><li><a href="#"><span>Previous</span></a></li><li><a href="#" class="active"><span>1</span></a></li><li><a href="#"><span>2</span></a></li><li><a href="#"><span>3</span></a></li><li><a href="#"><span>4</span></a></li><li><a href="#"><span>5</span></a></li><li><a href="#"><span>Next</span></a></li></ul></div></tr></tfoot>
+    <tbody>
+    <tr><td class="onbekend">Elias</td><td>Botte</td><td>8630</td><td>046486134</td><td>botte.elias@yahoo.com</td><td>Kortrijk</td></tr>
+    <tr class="alt"><td>Sam</td><td>Does</td><td class="onbekend">1234</td><td>13548631</td><td>sam.samsam@yahoo.com</td><td class="onbekend">Gent</td></tr>
+    <tr><td>Frank</td><td class="onbekend">Boos</td><td>1235</td><td>13145631</td><td class="onbekend">Frank.booos@yahoo.com</td><td>Lokeren</td></tr>
+    <tr class="alt"><td>Axel</td><td>Dewitte</td><td class="onbekend">1468</td><td>025896324</td><td>axel.dewitte@yahoo.com</td><td>Oostende</td></tr>
+    <tr><td>Mark</td><td class="onbekend">Verstappen</td><td>5680</td><td>089612843</td><td>Max.Verstappen@gmail.com</td><td>Brugge</td></tr>
+    </tbody>
+</table>
+<h2>Waarom heeft de volgende CSS regel:
+    .onbekend {background-color:red;}
+    geen effect als je deze toepast op een &lttd&gt cel in een &lttr&gt rij met class="alt", maar wel in een &lttr&gt
+        rij zonder deze 'alt' class? Hint: het heeft te maken met de specificiteit van de regels</h2>
+<p>De select is gewoon veel specifieker dan die van puur de klasse .onbekend. Hoe specifieker de selectie, hoe meer invloed die krijgt.</p>
+<p>De klasse alt heeft de volgende specificatie table tbody .alt td { background: #38F47D; color: #00496B; }</p>
+</body>
+</html>
