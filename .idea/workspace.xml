@@ -2,31 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Labo 5">
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht 3/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/images/nature blog example.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht Nature blog/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht kalender/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/1917.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Animal in me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Fight club.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Franz Ferdinand.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Franz_Ferdinand_-_Take_Me_Out.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/LOTR_Trilogy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Rammstein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/RammsteinDeutschlandSingleCover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/Sabaton.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/background_jungle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/images/monki.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/Opdracht persoonlijke homepage met css/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/fonts/kumbh.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/images/bg-pattern-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/images/bg-pattern-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/images/bg-pattern-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/images/image-victor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht FlexBox/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -46,7 +30,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2FiRRGC8yelZhgVBUySMd8MWqE4" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -71,11 +55,11 @@
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4\Opdracht 5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Opdracht flexbox" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Opdracht flexbox\frontendmentorprofilecardBeginSituatie\styles" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Kalender\styles" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Nature blog\images" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Nature blog" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6\Opdracht resume\styles" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 6\Opdracht resume" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,6 +82,7 @@
       <workItem from="1666885104309" duration="3135000" />
       <workItem from="1666888295278" duration="98000" />
       <workItem from="1668000125187" duration="6806000" />
+      <workItem from="1668856334389" duration="2316000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
