@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+.column {
+
+    padding:10px;
+    border:1px solid black;
+    margin: 10px;
+}
+div{
+    width:50%;
+    float:left;
+}
