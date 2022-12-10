@@ -1,0 +1,10 @@
+.grijs{
+    background-color: darkgray;
+}
+.donkergrijs{
+    background-color: gray;
+}
+.row{
+    height: 300px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,80 @@
+#pagina {
+    width: 1200px;
+    margin: auto;
+text-align: center}
+
+.profielfoto{
+    height:240px;
+    width:320px;
+}
+div>img{
+    height:105px;
+    width:200px;
+
+}
+
+body{background-color: black}
+
+H1 {
+    font-family: Verdana, serif; font-size: 50px; margin: 0}
+
+header{ background-color: aquamarine }
+
+H3,H2 {
+    font-family: Verdana, serif; font-size: small; color: white;
+}
+p,a{
+    font-family: Arial, serif; font-size: smaller; color: white; text-decoration: none; margin: 10px;
+}
+a{
+    font-family: "Times New Roman", serif; font-size: large; text-align: center;
+}
+img{padding: 10px }
+
+
+
+.Personal_image{ background-image: url("https://wallpapercave.com/wp/rFud6gx.jpg");}
+
+table, th, td{
+    color: white;
+    border: 1px solid white;
+    border-collapse: collapse;}
+
+.jungle_background{background-image: url("../images/jungle.jpg")}
+
+
+.datagrid table { border-collapse: collapse; text-align: left; width: 100%; }
+
+.datagrid {font: normal 12px/150% Arial, Helvetica, sans-serif; background: #fff; overflow: hidden; border: 8px solid #652299; }
+
+.datagrid table td,
+
+.datagrid table th { padding: 16px 7px; }
+
+.datagrid table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #652299), color-stop(1, #4D1A75) );background:-moz-linear-gradient( to top, #652299 5%, #4D1A75 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#652299', endColorstr='#4D1A75');background-color:#652299; color:#FFFFFF; font-size: 21px; font-weight: bold; border-left: 2px solid #714399; } .datagrid table thead th:first-child { border: none; }.datagrid table tbody td { color: #000000; border-left: 1px solid #F4B7F2;font-size: 16px;font-weight: normal; }
+
+.datagrid table tbody .alt td { background: #000000; color: #E010BE; }
+
+.datagrid table tbody td:first-child { border-left: none; }
+
+.datagrid table tbody tr:last-child td { border-bottom: none; }
+
+.datagrid table tfoot td div { border-top: 1px solid #652299;background: #F4E3FF;}
+
+.datagrid table tfoot td { padding: 0; font-size: 19px }
+
+.datagrid table tfoot td div{ padding: 6px; }
+
+.datagrid table tfoot td ul { margin: 0; padding:0; list-style: none; text-align: right; }
+
+.datagrid table tfoot  li { display: inline; }
+
+.datagrid table tfoot li a { text-decoration: none; display: inline-block;  padding: 2px 8px; margin: 1px;color: #FFFFFF;border: 2px solid #652299;border-radius: 3px; -moz-border-radius: 3px; background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #652299), color-stop(1, #4D1A75) );background:-moz-linear-gradient(to top, #652299 5%, #4D1A75 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#652299', endColorstr='#4D1A75');background-color:#652299; }
+
+.datagrid table tfoot ul.active, .datagrid table tfoot ul a:hover { text-decoration: none;border-color: #4D1A75; color: #FFFFFF;
+    background: #0091D9 none;
+}
+
+div.dhtmlx_window_active, div.dhx_modal_cover_dv { position: fixed !important; }
+
+.onbekend { background-color: red}
