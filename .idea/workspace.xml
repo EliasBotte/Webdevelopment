@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Labo 5">
-      <change afterPath="$PROJECT_DIR$/Labo 1 javascript/Leeg project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 1 javascript/Leeg project/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 1 javascript/Leeg project/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 1 javascript/demo rekenmasjien/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 1 javascript/demo rekenmasjien/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 1 javascript/demo rekenmasjien/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -97,7 +91,7 @@
       <workItem from="1673109976534" duration="5667000" />
       <workItem from="1673194347041" duration="104000" />
       <workItem from="1674737985993" duration="1244000" />
-      <workItem from="1676448954064" duration="102000" />
+      <workItem from="1676448954064" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
