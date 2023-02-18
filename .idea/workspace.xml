@@ -2,6 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Labo 5">
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 01/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 01/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 03 + 04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 03 + 04/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 03 + 04/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 05/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 05/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 06/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 06/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht 06/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht arrays/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht arrays/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht arrays/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht kopieer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht kopieer/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht kopieer/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht substring/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht substring/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 2 javascript/Opdracht substring/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -34,17 +55,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Web development 1 examenmap/Herhalingsopdrachten oplossing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 2 javascript" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 2 javascript" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 10\Opdracht Persoonlijke homepagina met bootstrap\styles" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 10" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 10\Compositie (Mondriaan)\styles" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 8" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 7\Opdracht Kalender" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 11\Css grid oefening" />
@@ -92,6 +113,7 @@
       <workItem from="1673194347041" duration="104000" />
       <workItem from="1674737985993" duration="1244000" />
       <workItem from="1676448954064" duration="177000" />
+      <workItem from="1676735745168" duration="5468000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
