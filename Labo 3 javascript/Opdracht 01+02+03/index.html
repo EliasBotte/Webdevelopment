@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>Demonstratie slider</title>
+	<script type="text/javascript" charset="utf-8" src="scripts/code.js"></script>
+	<link rel="stylesheet" href="styles/styles.css"/>
+</head> 
+<body> 
+<section>
+	<p>Open het console venster, versleep daarna de slider hieronder en kijk welke berichten er komen</p>
+	<input type="range" class="slider" value="50" min="0" max="100" />
+</section>
+<section>
+<p>Een gekleurd blokje :</p>
+<div class="colorDemo" />
+</section>
+<section>
+	<h1>Opdracht 2</h1>
+	<h2>Waar wordt de event listener gekoppeld aan de slider? </h2>
+	<p> Bij sliders[0].addEventListener("change", update);</p>
+	<h2>Waarom moeten we die op twee soorten events koppelen?</h2>
+	<p>De change event reageert wanneer de muis losgelaten word (bij Chrome), het update event dient voor wanneer de slider verplaatst aan het worden is. </p>
+	<h2>In de CSS file wordt nergens een rode kleur opgegeven, waar wordt dan wel de rode kleur van
+		het blokje ingesteld? </h2>
+	<p>In de script file wordt het element met class colordemo gecalled en een rode achtergrondkleur toegewezen</p>
+	<h2>Waarom schrijven we telkens sliders[0] en colorDemos[0] en niet gewoon sliders of
+		colorDemos?</h2>
+	<p>Bij het callen van getelementsbyclassname maak je een HTMLcollection van alle elementen die de klasse "colorDemos"/"sliders" hebben. Daarom moet je gaan aangeven op welke positie in de collection het element zich bevind. Hier omdat de collection maar 1 element bevat [0]. Het 1ste element in de collection. </p>
+	<h2>Waar vind je de CSS-properties die programmatorisch werden ingesteld, zoals bv. de rode
+		achtergrondkleur van het blokje?</h2>
+	<p>Door te kijken in de devtools console. Als een element een inline style blok heeft dan is deze programmatorisch ingesteld geweest.</p>
+</section>
+<section>
+	<h1>Opdracht 3</h1>
+	<h2>Ga stap voor stap verder met het uitvoeren door op te klikken en hou rechts (onder kopje"Local")
+		de waarden van de lokale variabelen 'sliders' en 'colorDemos' in de gaten. Zodra beiden een waarde
+		hebben stop je voorlopig met uitvoeren.
+		Wat voor soort waarde zit er in die variabelen?</h2>
+	<p></p>
+	<h2>Hoeveel elementen zitten er in elke verzameling?</h2>
+	<p>1</p>
+	<h2>Kun je uit de HTML code afleiden waarom er dit precies zoveel zijn?</h2>
+	<p>Omdat elke klasse maar 1x toegekend is</p>
+	<h2>Klik op het driehoekje naast de sliders lokale variabele zodat je het eerste element kunt zien. Op welke
+		index positie in de lijst staat dit element?</h2>
+	<p>0</p>
+</section>
+</body> 
+</html> 
