@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Javascript labo 02 correctie">
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht 01+02+03/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht 01+02+03/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht colorpicker/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht paragrafen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht paragrafen/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht paragrafen/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht producten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht producten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3 javascript/Opdracht producten/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/AntwoordenOpVragen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht formulierelementen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht formulierelementen/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht formulierelementen/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spaties met functie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spaties met functie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spaties met functie/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spatiesopconsole/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spatiesopconsole/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spatiesopconsole/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/de man van an/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/de man van an/scripts/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -45,17 +46,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 3 javascript/Opdracht producten" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 4 javascript" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript\Opdracht Man van An" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript\Opdracht Man van An\scripts" />
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript\Opdracht spaties met functie\scripts" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 3 javascript\Opdracht producten" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 3 javascript\Opdracht colorpicker" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 2 javascript" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 10\Opdracht Persoonlijke homepagina met bootstrap\styles" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 3 javascript\Opdracht producten" />
@@ -106,6 +107,9 @@
       <workItem from="1676735745168" duration="5501000" />
       <workItem from="1676888799388" duration="880000" />
       <workItem from="1677846246432" duration="9837000" />
+      <workItem from="1677857932070" duration="644000" />
+      <workItem from="1678019363103" duration="3943000" />
+      <workItem from="1678781887461" duration="8809000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
