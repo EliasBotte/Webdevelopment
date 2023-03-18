@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Javascript labo 02 correctie">
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/AntwoordenOpVragen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht formulierelementen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht formulierelementen/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht formulierelementen/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spaties met functie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spaties met functie/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spaties met functie/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spatiesopconsole/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spatiesopconsole/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/Opdracht spatiesopconsole/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/de man van an/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4 javascript/de man van an/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht de en het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht de en het/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht de en het/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formvalidatie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formvalidatie/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formwaarden/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formwaarden/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht gemeentes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht gemeentes/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht gemeentes/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht trigrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht trigrams/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht trigrams/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -109,7 +112,9 @@
       <workItem from="1677846246432" duration="9837000" />
       <workItem from="1677857932070" duration="644000" />
       <workItem from="1678019363103" duration="3943000" />
-      <workItem from="1678781887461" duration="8809000" />
+      <workItem from="1678781887461" duration="9406000" />
+      <workItem from="1678895187769" duration="782000" />
+      <workItem from="1679133857590" duration="5819000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
