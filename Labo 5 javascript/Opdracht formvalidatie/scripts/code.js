@@ -18,6 +18,7 @@ const valideer = () => {
 const valideerVoornaam = () => {
     let txtVoornaam = document.getElementById("txtVoornaam");
     let voornaam = txtVoornaam.value.trim();
+
     if (voornaam.length > 30) {
         reportError(txtVoornaam, "max. 30 karakters");
     } else {
@@ -28,6 +29,7 @@ const valideerVoornaam = () => {
 const valideerFamilienaam = () => {
     let txtFamilienaam = document.getElementById("txtFamilienaam");
     let familienaam = txtFamilienaam.value.trim();
+
     if (familienaam.length === 0) {
         reportError(txtFamilienaam, "verplicht veld");
     } else if (familienaam.length > 50) {
@@ -40,6 +42,7 @@ const valideerFamilienaam = () => {
 const valideerGeboorteDatum = () => {
     let txtGeboorteDatum = document.getElementById("txtGeboorteDatum");
     let geboorteDatum = txtGeboorteDatum.value.trim();
+
     if (geboorteDatum.length!==10) {
         reportError(txtGeboorteDatum, "verplicht veld in formaat jjjj-mm-dd");
     } else {
@@ -76,6 +79,7 @@ const valideerGeboorteDatum = () => {
 const valideerEmail = () => {
     let txtEmail = document.getElementById("txtEmail");
     let email = txtEmail.value.trim();
+
     if (email.length===0) {
         reportError(txtEmail, "verplicht veld");
     } else {
@@ -100,12 +104,16 @@ const valideerEmail = () => {
 const valideerAantalKinderen = () => {
     let txtAantalKinderen = document.getElementById("txtAantalKinderen");
     let aantalKinderenText = txtAantalKinderen.value.trim();
-    if (aantalKinderenText.length===0) {
-        reportError(txtAantalKinderen, "verplicht veld");
-    } else if (!isPositiveNumber(aantalKinderenText)) {
+    if (!isPositiveNumber(aantalKinderenText))
+    {
         reportError(txtAantalKinderen, "is geen positief getal");
+    }
+    else if (aantalKinderenText.length===0) {
+        reportError(txtAantalKinderen, "verplicht veld");
+
     } else {
         let aantal=parseInt(aantalKinderenText);
+
         if (aantal>=99) {
             reportError(txtAantalKinderen, "te vruchtbaar");
         } else {
@@ -115,6 +123,7 @@ const valideerAantalKinderen = () => {
 };
 
 const isPositiveNumber = (text) => {
+
     if (isNaN(text)) {
         return false;
     } else {
@@ -124,6 +133,7 @@ const isPositiveNumber = (text) => {
 };
 
 const isPositiveNonZeroNumber = (text) => {
+
     if (isNaN(text)) {
         return false;
     } else {
@@ -134,17 +144,19 @@ const isPositiveNonZeroNumber = (text) => {
 
 const reportError = (element, message) => {
     let elementId=element.getAttribute("id");
-    let errorElementId="err"+elementId.substring(3, elementId.length);
-    let errorElement=document.getElementById(errorElementId);
+
+    let errorElementId= "err"+elementId.substring(3, elementId.length);
+    let error= document.getElementById(errorElementId);
     element.className="invalid";
-    errorElement.innerHTML = message;
+    error.innerHTML = message;
 };
 
 const clearError = (element) => {
-    let elementId=element.getAttribute("id");
+    let elementId= element.getAttribute("id");
+
     let errorElementId="err"+elementId.substring(3, elementId.length);
-    let errorElement=document.getElementById(errorElementId);
+    let error= document.getElementById(errorElementId);
     element.className="";
-    errorElement.innerHTML = "";
+    error.innerHTML = "";
 };
 window.addEventListener("load", setup);
