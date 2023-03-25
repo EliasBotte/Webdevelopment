@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Javascript labo 02 correctie">
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 1/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 2/images/me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 2/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 3/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Extra oefeningen nodes/Opdracht 3/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Opdracht 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Opdracht 1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/Opdracht 1/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/This-keyword/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/This-keyword/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/demo event bubbling/demo event bubbling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/demo event bubbling/demo event bubbling/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/demo event bubbling/demo event bubbling/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/demo events/demo events/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/demo events/demo events/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/oplossing colorpicker uitbreiding/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/oplossing colorpicker uitbreiding/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 6 javascript/oplossing colorpicker uitbreiding/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formvalidatie/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formvalidatie/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formwaarden/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 5 javascript/Opdracht formwaarden/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +124,8 @@
       <workItem from="1678781887461" duration="9406000" />
       <workItem from="1678895187769" duration="782000" />
       <workItem from="1679133857590" duration="5819000" />
-      <workItem from="1679221657057" duration="850000" />
+      <workItem from="1679221657057" duration="891000" />
+      <workItem from="1679741172439" duration="13199000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
