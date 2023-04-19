@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Javascript labo 02 correctie">
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/Contact manager opdracht/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/Contact manager opdracht/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/Contact manager opdracht/scripts/validatie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/Contact manager opdracht/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/Date objecten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/Date objecten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/Date objecten/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/JSON (twee programma's)/programma1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/JSON (twee programma's)/programma1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/JSON (twee programma's)/programma1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/JSON (twee programma's)/programma2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/JSON (twee programma's)/programma2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 8 javascript/JSON (twee programma's)/programma2/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +105,7 @@
       <workItem from="1680092350503" duration="9244000" />
       <workItem from="1680435631418" duration="6107000" />
       <workItem from="1680443473375" duration="133000" />
-      <workItem from="1681906767625" duration="9653000" />
+      <workItem from="1681906767625" duration="10406000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
