@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43049af-170b-478c-a561-43d6fae5202d" name="Default Changelist" comment="Javascript labo 02 correctie">
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/Colorpicker Pro/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/Colorpicker Pro/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/Colorpicker Pro/scripts/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/Colorpicker Pro/scripts/swatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/Colorpicker Pro/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/DemoStorageJson/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/DemoStorageJson/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/demo storage/demo 1 globale variabelen/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/demo storage/demo 1 globale variabelen/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/demo storage/demo 2 session storage/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/demo storage/demo 2 session storage/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/demo storage/demo 3 local storage/index.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 9 javascript/demo storage/demo 3 local storage/script/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -34,17 +47,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 4 javascript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Labo 9 javascript" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 9 javascript" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript\Opdracht Man van An" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript\Opdracht Man van An\scripts" />
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 4 javascript\Opdracht spaties met functie\scripts" />
-      <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment\Labo 3 javascript\Opdracht producten" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\botte\OneDrive\Documenten\GitHub\Webdevelopment" />
@@ -105,7 +118,8 @@
       <workItem from="1680092350503" duration="9244000" />
       <workItem from="1680435631418" duration="6107000" />
       <workItem from="1680443473375" duration="133000" />
-      <workItem from="1681906767625" duration="10406000" />
+      <workItem from="1681906767625" duration="10536000" />
+      <workItem from="1682842269198" duration="1944000" />
     </task>
     <task id="LOCAL-00001" summary="Labo 5">
       <created>1666188440019</created>
